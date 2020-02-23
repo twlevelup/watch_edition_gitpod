@@ -25,7 +25,7 @@
     "http-server": "0.11.1",
     "leaflet": "^1.4.0",
     "lodash": "4.17.15",
-    "watch-framework": "file:framework"
+    "watch-framework": "^1.0.0"
   },
   "engines": {
     "node": "10.15.3"
